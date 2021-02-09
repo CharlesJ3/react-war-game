@@ -1,0 +1,15 @@
+.addArmy {
+  text-align: center;
+  border: 1px solid orange;
+  width: 100%;
+  height: 12%;
+  margin: 0 auto;
+  display: flex;
+
+  .army {
+    width: 25%;
+    border: 1px solid white;
+    height: 100%;
+  }
+}
+
